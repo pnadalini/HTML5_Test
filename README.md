@@ -7,4 +7,4 @@ This page will contain the following characteristics:
 2.  Styles from any framework (Bootstrap, for example)
 3.  5 buttons that manage the styles of your site
     - For example, by clicking on a button, change the entire base color of the site
-4.  Use HTML5 tags (nav, header, footer, etc) and data attributes (data-** =)
+4.  Use HTML5 tags (nav, header, footer, etc) and data attributes (data-*=)
